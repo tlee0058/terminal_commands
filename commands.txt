@@ -1,0 +1,11 @@
+notepad index.html (sorry at work, don't have editor installed now until I get home)
+notepad styles.css
+notepad commands.txt
+copy index.html index_2.html
+del styles.css
+cd ..
+md destination
+move C:\Users\TLee\Desktop\test\index_2.html C:\Users\TLee\Desktop\destination
+rd /s destination
+Y
+
